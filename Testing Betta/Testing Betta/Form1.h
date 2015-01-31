@@ -156,7 +156,7 @@ namespace TestingBetta {
 			// 
 			// button1
 			// 
-			this->button1->Location = System::Drawing::Point(246, 193);
+			this->button1->Location = System::Drawing::Point(225, 188);
 			this->button1->Name = L"button1";
 			this->button1->Size = System::Drawing::Size(75, 23);
 			this->button1->TabIndex = 9;
@@ -169,9 +169,9 @@ namespace TestingBetta {
 			this->checkBox1->AutoSize = true;
 			this->checkBox1->Location = System::Drawing::Point(157, 41);
 			this->checkBox1->Name = L"checkBox1";
-			this->checkBox1->Size = System::Drawing::Size(80, 17);
+			this->checkBox1->Size = System::Drawing::Size(86, 17);
 			this->checkBox1->TabIndex = 10;
-			this->checkBox1->Text = L"checkBox1";
+			this->checkBox1->Text = L"checkBox11";
 			this->checkBox1->UseVisualStyleBackColor = true;
 			// 
 			// checkBox2
@@ -179,9 +179,9 @@ namespace TestingBetta {
 			this->checkBox2->AutoSize = true;
 			this->checkBox2->Location = System::Drawing::Point(157, 65);
 			this->checkBox2->Name = L"checkBox2";
-			this->checkBox2->Size = System::Drawing::Size(80, 17);
+			this->checkBox2->Size = System::Drawing::Size(32, 17);
 			this->checkBox2->TabIndex = 11;
-			this->checkBox2->Text = L"checkBox2";
+			this->checkBox2->Text = L"2";
 			this->checkBox2->UseVisualStyleBackColor = true;
 			// 
 			// checkBox3
@@ -189,9 +189,9 @@ namespace TestingBetta {
 			this->checkBox3->AutoSize = true;
 			this->checkBox3->Location = System::Drawing::Point(157, 88);
 			this->checkBox3->Name = L"checkBox3";
-			this->checkBox3->Size = System::Drawing::Size(80, 17);
+			this->checkBox3->Size = System::Drawing::Size(32, 17);
 			this->checkBox3->TabIndex = 12;
-			this->checkBox3->Text = L"checkBox3";
+			this->checkBox3->Text = L"3";
 			this->checkBox3->UseVisualStyleBackColor = true;
 			// 
 			// Form1
